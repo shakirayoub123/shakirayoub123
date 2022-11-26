@@ -1,4 +1,4 @@
-<img width="100%" height="500" src="https://images.unsplash.com/photo-1624020399372-ab7d8686b29f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
+<img width="100%" height="400" src="https://images.unsplash.com/photo-1624020399372-ab7d8686b29f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
 <h1 align="center">Hi I'm Shakir Ayoub</h1>
 <h3 align="center">I am a Frontend developer with Coding
 problem-solving skills and much experience in
