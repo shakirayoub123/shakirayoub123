@@ -43,6 +43,6 @@ creating and designing Websites.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakirayoub123&show_icons=true&locale=en&layout=compact" alt="shakirayoub123" /></p>
 
-<p>&nbsp;<img align="center" background-color="black" src="https://github-readme-stats.vercel.app/api?username=shakirayoub123&show_icons=true&locale=en" alt="shakirayoub123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakirayoub123&show_icons=true&locale=en" alt="shakirayoub123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakirayoub123&" alt="shakirayoub123" /></p>
