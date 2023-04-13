@@ -1,8 +1,16 @@
 <img width="100%" height="250" src="https://camo.githubusercontent.com/ee5e67e6657c89732a9610604b6e7d5f03f88a063a0fda2d03105b607b5fbc84/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722d776964652e676966">
 <h1 align="center">Hi I'm Shakir Ayoub</h1>
-<h3 align="center">I am a Frontend developer with Coding
-problem-solving skills and much experience in
-creating and designing Websites.</h3>
+<h3 align="center">As a highly motivated and skilled web developer, I bring a fresh perspective and a passion for innovation to the field. With my Bachelor's degree in Computer Science, I am eager to learn new technologies and methodologies to enhance existing technology.
+
+I have honed my skills in various programming languages such as HTML, CSS, JavaScript, VueJS, Vuex, React, Redux, RESTAPI, and Bootstrap. Additionally, I have completed several certifications in HTML, CSS, JavaScript, and React, demonstrating my commitment to excellence and my willingness to push the boundaries of what's possible.
+
+My practical experience has been gained through working on a variety of exciting projects and internships. For instance, I created a MOOC recommendation system that provides students with access to highly rated courses from various educational platforms. I also developed a Todolist with multiple functionalities, including adding, deleting, and updating tasks, using tools such as HTML, CSS, Bootstrap, VueJS, Vuex, JSON, and HTTP methods.
+
+Moreover, I completed a four-week internship at Yarikul Infotech Srinagar, where I worked on challenging web development projects. Currently, I am working as a Frontend Developer at Ladybird Web Solutions Pvt Ltd, where I am involved in developing and maintaining web applications that are visually stunning and easy to use.
+
+One of my most notable projects is the Orbits Clone, which is a large online travel agency that makes it easy for travelers to book flights, hotels, cruises, car rentals, and more. The project involved implementing functionalities such as login/signup, payment pages, and add-to-cart features, and it was a thrilling experience to bring it to life.
+
+My skills, knowledge, and experience make me a standout web developer who is always eager to learn and innovate. With my dedication to excellence, I am confident that I can make a significant contribution to the web development industry.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakirayoub123&label=Profile%20views&color=0e75b6&style=flat" alt="shakirayoub123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakirayoub123" alt="shakirayoub123" /></a> </p>
