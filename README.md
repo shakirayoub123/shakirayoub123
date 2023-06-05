@@ -19,7 +19,9 @@
 - 📫 How to reach me **shakir.ayoub@ladybirdweb.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1I2GlnmmeFa9UP2ONUwjxLsfAjTCF3rIr/view?usp=share_link](https://drive.google.com/file/d/1I2GlnmmeFa9UP2ONUwjxLsfAjTCF3rIr/view?usp=share_link)
+- 
 <a href="https://647d860f4cd97632e6081766--taupe-panda-c984c3.netlify.app/" >Portfolio </a>
+<br>
 # 💫 About Me:
 I am a Front end developer with Coding problem-solving skills and much experience in creating and designing Websites and Highly motivated and skilled web developer with a Bachelor's degree in Computer Science and a passion for innovation. Proficient in HTML, CSS, JavaScript, VueJS, Vuex, React, Redux, RESTAPI, and Bootstrap, with certifications in HTML, CSS, JavaScript, and React. Practical experience gained through exciting projects and internships, including developing a MOOC recommendation system and a Todolist. Notable experience includes working on Orbits Clone, a large online travel agency. Always eager to learn and innovate with a dedication to excellence.
 
