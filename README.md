@@ -1,4 +1,4 @@
-<img width="80%" height="550" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <h1 align="center">Hi I'm Shakir Ayoub</h1>
 <p align="center">Passionate web developer with a penchant for perfection. I'm driven
