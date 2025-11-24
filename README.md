@@ -16,7 +16,8 @@ I bring the perfect blend of modern frontend + enterprise cloud skills.
 <br/>
 
 ### 🌐 **Portfolio / Socials**
-<a href="https://linkedin.com/in/shakir-ayoub-412a30147" target="_blank">🔗 Portfolio / LinkedIn</a> • 
+<a href="https://linkedin.com/in/shakir-ayoub-412a30147" target="_blank">🔗LinkedIn</a> • 
+<a href="https://shakir-ayoub-gqrz8u7.gamma.site/">📧 Portfolio</a> • 
 <a href="mailto:shakirayoub0198@gmail.com">📧 Email Me</a> • 
 <a href="https://drive.google.com/file/d/1EjxwftB-ymzNamHiuuw_nEpm1gxjQvqU/view?usp=sharing" target="_blank">📄 Resume</a>
 
