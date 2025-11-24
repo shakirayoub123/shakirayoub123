@@ -1,63 +1,112 @@
-<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<div align="center">
 
-<h1 align="center">Hi I'm Shakir Ayoub</h1>
-<p align="center">Passionate web developer with a penchant for perfection. I'm driven
-by the art of coding and the craft of design, combining both to craft
-user-centric digital solutions. Proficient in a range of front-end
-technologies, I specialize in turning ideas into engaging websites and
-applications. With <b>3+ years of experience in Vue.js</b> and <b>6 months of Salesforce development experience</b>, I blend modern UI/UX with strong integration skills. Let's shape the web together with innovation and creativity.</p>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakirayoub123&label=Profile%20views&color=0e75b6&style=flat" alt="shakirayoub123" /> </p>
+<br/><br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakirayoub123" alt="shakirayoub123" /></a> </p>
+# 👋 Hi, I'm **Shakir Ayoub**
 
-<p align="left"> <a href="https://twitter.com/shakirayoub5" target="blank"><img src="https://img.shields.io/twitter/follow/shakirayoub5?logo=twitter&style=for-the-badge" alt="shakirayoub5" /></a>   </p>
+✨ Crafting clean UI experiences • Building scalable front-end systems  
+🚀 **Frontend Developer | Vue.js Specialist | Salesforce Dev (OmniStudio)**
 
-<img  align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+I build elegant, user-focused web applications with a balance of design and engineering.  
+With **3+ years of Vue.js experience** and **6 months of Salesforce development**,  
+I bring the perfect blend of modern frontend + enterprise cloud skills.
 
-- 🌱 I’m currently learning **Node.js**
+<br/>
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/shakir-ayoub-412a30147/](linkedin.com/in/shakir-ayoub-412a30147/)
+### 🌐 **Portfolio / Socials**
+<a href="https://linkedin.com/in/shakir-ayoub-412a30147" target="_blank">🔗 Portfolio / LinkedIn</a> • 
+<a href="mailto:shakirayoub0198@gmail.com">📧 Email Me</a> • 
+<a href="https://drive.google.com/file/d/1I2GlnmmeFa9UP2ONUwjxLsfAjTCF3rIr/view?usp=share_link" target="_blank">📄 Resume</a>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Git, REST API, Vue.js, Vuex, React, Redux, Pinia, Shopify, Wordpress, Salesforce, OmniStudio**
-
-- 📫 How to reach me **shakirayoub0198@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I2GlnmmeFa9UP2ONUwjxLsfAjTCF3rIr/view?usp=share_link](https://drive.google.com/file/d/1I2GlnmmeFa9UP2ONUwjxLsfAjTCF3rIr/view?usp=share_link)
-
-<a href="https://shakir-ayoub-gqrz8u7.gamma.site/" >My Portfolio </a>
-
-<br>
-
-# 💫 About Me:
-I am a Frontend Developer with strong problem-solving skills and extensive experience in building high-quality, user-focused web applications. With a Bachelor's degree in Computer Science, I bring a passion for clean design and modern frameworks.  
-
-I have **3+ years of experience in Vue.js** (Vue 2, Vue 3, Vuex, Pinia, Vuetify) and **6 months of Salesforce development experience**, including OmniStudio, LWC, APEX.  
-I’ve worked on exciting projects like a MOOC recommendation system, a Secret Message, and an Orbits Clone for a major travel platform. Always eager to keep learning and push boundaries in tech.
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shakirayoub) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakirayoub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shakirayoub_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakirayoub) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shakirayoub) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shakirayoub) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/shakirayoub) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/shakirayoub) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shakirayoub5)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shakirayoub5) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shakirayoub) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
-![Salesforce](https://img.shields.io/badge/salesforce-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shakirayoub123&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shakirayoub123&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakirayoub123&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=shakirayoub5)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shakirayoub123&icon=5&color=1)](https://visitcount.itsvg.in)
 
+## 🚀 **Key Expertise at a Glance**
+
+### 🟩 **Frontend Focus**
+✔️ 3+ years of experience with the **Vue.js ecosystem**  
+• Vue 2 & Vue 3 • Vuex • Pinia • Vuetify • Vite  
+✔️ Strong experience in **React & Redux**  
+✔️ Clean UI / component architecture  
+✔️ Reusable design system building  
+
+### ☁️ **Salesforce Development (6 Months)**
+✔️ OmniStudio (OmniScripts, DataRaptors, Integration Procedures)  
+✔️ LWC (Basics + UI Extensions)  
+✔️ DocuSign integrations  
+✔️ Apex fundamentals  
+
+### 📚 **Currently Learning**
+➡️ **Node.js** (expanding into full-stack)
+
+<br/>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a37513379765349765f7430696f4a2d5a2e676966" width="80%" />
+</div>
+
+---
+
+## 💻 **Tech Stack**
+
+<div align="center">
+
+### 🔥 **Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-f5e642?style=for-the-badge&logo=pinia&logoColor=black)
+![Vuex](https://img.shields.io/badge/Vuex-35495e?style=for-the-badge&logo=vue.js&logoColor=4fc08d)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+
+### ☁️ **Salesforce / Backend**
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-333?style=for-the-badge&logo=salesforce&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 **Styling**
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠️ **Other Skills**
+<details>
+  <summary><b>Click to Expand</b></summary>
+
+- REST API  
+- Git & GitHub  
+- Shopify & WordPress  
+- Salesforce OmniStudio: DataRaptors, IPs, OmniScripts  
+- LWC Basics  
+- Component-driven architecture  
+</details>
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shakirayoub123&color=0e75b6&style=flat" />
+
+<br/><br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=shakirayoub123&theme=radical&margin-w=10" />
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shakirayoub123&theme=radical&show_icons=true&hide_border=false" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakirayoub123&theme=radical&hide_border=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakirayoub123&theme=radical&layout=compact&hide_border=false" />
+
+</div>
+
+---
+
+## 🌐
