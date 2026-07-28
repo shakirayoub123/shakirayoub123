@@ -31,15 +31,15 @@
 ```javascript
 const shakir = {
   name: "Shakir Ayoub",
-  location: "Ahmedabad, Gujarat 🇮🇳",
-  role: "Frontend Developer",
+  location: "Noida, India 🇮🇳",
+  role: "Senior Consultant",
   experience: {
-    vuejs: "3+ years",
-    salesforce: "6 months",
+    frontend: "3+ years",
+    salesforce: "3+ months",
   },
   currentlyLearning: ["Node.js", "Full-Stack Dev"],
   askMeAbout: [
-    "Vue.js", "Pinia", "Vuetify",
+    "Salesforce", "Apex", "LWC",
     "OmniStudio", "Component Architecture"
   ],
   funFact: "I treat every component like a product — designed, not just coded 🎯"
